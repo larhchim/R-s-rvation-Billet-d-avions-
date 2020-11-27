@@ -16,7 +16,7 @@ qu'on a utilisé pour colorié un JPANEL à l'aide de l'outils Graphics componen
 
 Execution de l'application:
 
-1. Créer une nouvelle base de données sur votre serveur Mysql sous le nom "reservationbilletsavions" puis importer le fichier reservationbilletsavions.sql présent dans le répértoire courant
+1. Créer une nouvelle base de données sur votre serveur Mysql sous le nom "reservationbilletsavions" puis importer le fichier reservationbilletsavions.sql présent dans le répértoire DataBase script.
 2. Importer le projet sur votre IDE
 3. Verifier que tous les libreries externes sont chargé surtout le jar de la date Picker présent dans le répértoire :\ReservationBilletsAvion\src\Métier
 4. Executer l'application depuis la classe Main (Classe Princiaple) dans \ReservationBilletsAvion\src\Presentation\ClassePrincipale.java
